@@ -9,6 +9,7 @@ Xpath //*[@id="root"]/div/div[2]/div[1]/div[1]/div[2]/div/div/div[1]/a
 
 书地址取数据
 Xpath出版信息 //*[@id="info"]
+Xpath封面 //*[@id="mainpic"]/a/img
 Xpath评分 //*[@id="interest_sectl"]/div/div[2]/strong
 Xpath简介 //*[@id="link-report"]/div[1]/div
 Xpath作者 //*[@id="content"]/div/div[1]/div[3]/div[2]/div/div
